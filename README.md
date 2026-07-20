@@ -24,13 +24,13 @@ A Movie Recommendation System built using Streamlit, Machine Learning, and OMDb 
 
 ## 🎬 Movie Details
 
-![Movie Details](screenshots/moviesdetail.png)
+![Movie Details](screenshots/movie_details.png)
 
 ---
 
 ## 🎯 Recommendations
 
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/recommendation.png)
 
 ## Tech Stack
 
