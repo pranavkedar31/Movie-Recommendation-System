@@ -14,6 +14,24 @@ A Movie Recommendation System built using Streamlit, Machine Learning, and OMDb 
 - Wikipedia Link
 - Watch Online Link
 
+# 📸 Application Screenshots
+
+## 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## 🎬 Movie Details
+
+![Movie Details](screenshots/moviesdetail.png)
+
+---
+
+## 🎯 Recommendations
+
+![Recommendations](screenshots/recommendations.png)
+
 ## Tech Stack
 
 - Python
